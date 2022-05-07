@@ -35,7 +35,7 @@
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - I used Vanilla JavaScript to build a vintage 2D fighting game. You are able to switch fighters by clicking in the character select box much like any classic PVP game!</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - A vanilla JavaScript application using sprites. You are able to switch fighters by clicking in the character select box much like any classic PVP game!</p>
 				</div>
 			</td>
 			<td width="50%">
