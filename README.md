@@ -22,16 +22,16 @@
 			<td width="50%">
 				<h3 align="center" color="white">Naruto 2D Game Selector</h2>
 				<div align="center" >  
-					<a href='https://ethodeus.github.io/breaking-bad-info-page/'>
+					<a href='https://narutobattlescreen-js.netlify.app/'>
 						<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Breaking-bad-		infopage" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/Ethodeus/breaking-bad-info-page" target="_blank">
+						<a href="https://github.com/ssaryonjr/Naruto-Character-Selector/tree/main/Naruto.JS" target="_blank">
 							<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://ethodeus.github.io/breaking-bad-info-page/" target="_blank">
+						<a href="https://narutobattlescreen-js.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
 						</a>	
 					</p>
