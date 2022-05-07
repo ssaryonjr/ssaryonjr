@@ -98,6 +98,7 @@
 	</table>
 </div>
   <!--End of Project-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssaryonjr&show_icons=true&theme=radical)
 	
 
 
