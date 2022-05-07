@@ -1,7 +1,7 @@
 ![alt text](https://github.com/ssaryonjr/ssaryonjr/blob/main/Github%20Cover.png?raw=true "Logo Title Text 1")
 
 <p align="center">
-<a href="https://twitter.com/USER"><img src="https://img.shields.io/badge/@samsaryonjr-D14836?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+<a href="https://twitter.com/samsaryonjr"><img src="https://img.shields.io/badge/@samsaryonjr-D14836?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 <a href="https://medium.com/USER"><img src="https://img.shields.io/badge/Codewars-D14836?style=for-the-badge&logo=Codewars&logoColor=white" height=25></a> 
 <a href="https://dev.to/USER"><img src="https://img.shields.io/badge/ssaryonjr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 <a href="https://YouTube.com/USER"><img src="https://img.shields.io/badge/sam_saryon-D14836?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
