@@ -1,4 +1,4 @@
-### Hi there 👋
+![alt text](https://github.com/ssaryonjr/ssaryonjr/blob/main/Github%20Cover.png?raw=true "Logo Title Text 1")
 
 <!--
 **ssaryonjr/ssaryonjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
