@@ -98,7 +98,7 @@
 	</table>
 </div>
   <!--End of Project-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssaryonjr&show_icons=true&theme=radical)
+ ![Aditya's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ssaryonjr&theme=redical&hide_border=true&area=true)
 	
 
 
