@@ -98,7 +98,7 @@
 	</table>
 </div>
   <!--End of Project-->
- ![Aditya's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ssaryonjr&theme=redical&hide_border=true&area=true)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssaryonjr&layout=compact)](https://github.com/ssaryonjr/github-readme-stats)
 	
 
 
