@@ -23,7 +23,7 @@
 				<h3 align="center" color="white">Naruto 2D Game Selector</h2>
 				<div align="center" >  
 					<a href='https://narutobattlescreen-js.netlify.app/'>
-						<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Naruto Game" height="100%" />
+						<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Naruto Game" height="222px" width="100%" />
 					</a>
 					<br>
 					<br>
@@ -42,7 +42,7 @@
 				<h3 align="center" color="white">Coming Soon</h2>
 				<div align="center" >  
 					<a href='https://ethodeus.github.io/pick-em-drinks-project/'>
-						<img src="https://source.unsplash.com/600x400/?city,night" alt="" height="100%" />
+						<img src="https://source.unsplash.com/600x400/?city,night" alt="" height="222px" width="100%" />
 					</a>
 					<br>
 					<br>
@@ -61,7 +61,7 @@
 			<h3 align="center" color="white">Coming Soon</h2>
 			<div align="center" >  
 				<a href='https://sebastianospina.netlify.app'>
-					<img src="https://source.unsplash.com/600x400/?city" height="100%" />
+					<img src="https://source.unsplash.com/600x400/?city" height="222px" width="100%" />
 				</a>
 				<br>
 				<br>
@@ -80,7 +80,7 @@
 			<h3 align="center" color="white">Coming Soon</h2>
 			<div align="center" >  
 				<a href='https://ethodeus.github.io/simple-calculator-project/'>
-					<img src="https://source.unsplash.com/600x400/?technology" alt="" height="100%" />
+					<img src="https://source.unsplash.com/600x400/?technology" alt="" height="222px" width="100%" />
 				</a>
 				<br>
 				<br>
