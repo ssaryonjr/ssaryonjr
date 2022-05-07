@@ -58,7 +58,7 @@
 				</div>
 	<tr>
 		<td width="50%">
-			<h3 align="center" color="white">Personal Portfolio</h2>
+			<h3 align="center" color="white">Coming Soon</h2>
 			<div align="center" >  
 				<a href='https://sebastianospina.netlify.app'>
 					<img src="https://source.unsplash.com/600x400/?city" height="100%" />
@@ -77,7 +77,7 @@
 			</div>
 		</td>
 		<td width="50%">
-			<h3 align="center" color="white">Simple Calculator</h2>
+			<h3 align="center" color="white">Coming Soon</h2>
 			<div align="center" >  
 				<a href='https://ethodeus.github.io/simple-calculator-project/'>
 					<img src="https://source.unsplash.com/600x400/?technology" alt="Calculator" height="100%" />
