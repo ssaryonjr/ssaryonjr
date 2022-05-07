@@ -98,9 +98,6 @@
 	</table>
 </div>
   <!--End of Project-->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssaryonjr&layout=compact)](https://github.com/ssaryonjr/github-readme-stats)
-	
-
 
 <h2 align="center">Technical Skills</h2>
 <hr>
