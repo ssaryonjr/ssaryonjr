@@ -23,7 +23,7 @@
 				<h3 align="center" color="white">Naruto 2D Game Selector</h2>
 				<div align="center" >  
 					<a href='https://ethodeus.github.io/breaking-bad-info-page/'>
-						<img src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Project-images/Breaking-bad/ezgif.com-gif-maker.gif" alt="Breaking-bad-		infopage" height="100%" />
+						<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Breaking-bad-		infopage" height="100%" />
 					</a>
 					<br>
 					<br>
