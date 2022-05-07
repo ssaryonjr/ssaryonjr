@@ -15,7 +15,7 @@
 
 <!--Project Section -->
 
-<h2 align="center">Highlighted Projects </h2>
+<h2 align="center">Highlighted Project(s) </h2>
 <div align="center">
 	<table>
 		<tr>
@@ -99,8 +99,7 @@
 </div>
   <!--End of Project-->
 
-<h2 align="center">Technical Skills</h2>
-<hr>
+<h2 align="center">Technical Skill(s)</h2>
 <p align="center">
 	<img src="https://img.shields.io/badge/HTML5-D14836?style=for-the-badge&logo=html5&logoColor=white" height=25>
 	<img src="https://img.shields.io/badge/CSS3-D14836?style=for-the-badge&logo=css3&logoColor=white" height=25>
@@ -109,5 +108,9 @@
 	<img src="https://img.shields.io/badge/React-D14836?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
 	<img src="https://img.shields.io/badge/Express.js-D14836?style=for-the-badge&logo=express&logoColor=white" height=25>
 	<img src="https://img.shields.io/badge/MongoDB-D14836?style=for-the-badge&logo=mongodb&logoColor=white" height=25>
+	<img src="https://img.shields.io/badge/Figma-D14836?style=for-the-badge&logo=figma&logoColor=white" height=25>
+	<img src="https://img.shields.io/badge/firebase-D14836?style=for-the-badge&logo=firebase&logoColor=white" height=25>
+	<img src="https://img.shields.io/badge/jQuery-D14836?style=for-the-badge&logo=jquery&logoColor=white" height=25>
+	<img src="https://img.shields.io/badge/Visual_Studio-D14836?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
+	<img src="https://img.shields.io/badge/GIT-D14836?style=for-the-badge&logo=git&logoColor=white" height=25>
 	</p>
-	
