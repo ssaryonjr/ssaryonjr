@@ -105,7 +105,7 @@
 				<img src="https://github-readme-streak-stats.herokuapp.com?user=ssaryonjr&theme=neon-dark&hide_border=true&background=ffffff00&date_format=M%20j%5B%2C%20Y%5D">
 			</td>
 			<td width="50%">
-				<img src="https://github-readme-stats.vercel.app/api?username=ssaryonjr">
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssaryonjr&layout=compact&hide=html,css">
 	</table>
 </div>
 	
