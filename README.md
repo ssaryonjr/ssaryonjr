@@ -15,7 +15,7 @@
 
 <!--Project Section -->
 
-<h2 align="center">Highlighted Project(s) </h2>
+<h2 align="center">Highlighted Projects </h2>
 <div align="center">
 	<table>
 		<tr>
@@ -110,7 +110,7 @@
 	</table>
 </div>
 	<img src="https://activity-graph.herokuapp.com/graph?username=ssaryonjr&bg_color=FFFFFF00&color=F8D866&line=D14836&point=fa8b00&hide_border=true&title_color=">
-<h2 align="center">Technical Skill(s)</h2>
+<h2 align="center">Technical Skills</h2>
 <p align="center">
 	<img src="https://img.shields.io/badge/HTML5-D14836?style=for-the-badge&logo=html5&logoColor=white" height=25>
 	<img src="https://img.shields.io/badge/CSS3-D14836?style=for-the-badge&logo=css3&logoColor=white" height=25>
