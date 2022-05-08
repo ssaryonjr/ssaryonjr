@@ -98,8 +98,16 @@
 	</table>
 </div>
   <!--End of Project-->
-	[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ssaryonjr&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=ssaryonjr&theme=neon-dark&hide_border=true&background=ffffff00&date_format=M%20j%5B%2C%20Y%5D">
+	<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<img src="https://github-readme-streak-stats.herokuapp.com?user=ssaryonjr&theme=neon-dark&hide_border=true&background=ffffff00&date_format=M%20j%5B%2C%20Y%5D">
+			</td>
+			<td width="50%">
+				<img src="https://github-readme-streak-stats.herokuapp.com?user=ssaryonjr&theme=neon-dark&hide_border=true&background=ffffff00&date_format=M%20j%5B%2C%20Y%5D">
+	</table>
+</div>
 	
 <h2 align="center">Technical Skill(s)</h2>
 <p align="center">
