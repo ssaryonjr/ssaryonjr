@@ -97,7 +97,7 @@
 		</td>
 	</table>
 </div>
-  <!--End of Project--><h2 align="center">Analytics</h2>
+  <!--End of Project--><hr>
 	<div align="center">
 	<table>
 		<tr>
