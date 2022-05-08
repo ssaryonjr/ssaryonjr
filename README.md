@@ -102,7 +102,7 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<img src="https://github-readme-streak-stats.herokuapp.com?user=ssaryonjr&theme=neon-dark&hide_border=true&background=ffffff00&date_format=M%20j%5B%2C%20Y%5D">
+				<img src="http://github-readme-streak-stats.herokuapp.com?user=ssaryonjr&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&sideNums=DD2727&sideLabels=DD4236&background=FFFFFF00">
 			</td>
 			<td width="50%">
 				<img src="https://activity-graph.herokuapp.com/graph?username=ssaryonjr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
