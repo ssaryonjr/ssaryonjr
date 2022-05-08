@@ -105,10 +105,10 @@
 				<img src="http://github-readme-streak-stats.herokuapp.com?user=ssaryonjr&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&sideNums=DD2727&sideLabels=DD4236&background=FFFFFF00">
 			</td>
 			<td width="50%">
-				<img src="https://activity-graph.herokuapp.com/graph?username=ssaryonjr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+				<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ssaryonjr&bg_color=FFFFFF00&hide_border=true&text_color=DD2727&title_color=fa8b00">
 	</table>
 </div>
-	<img src="https://activity-graph.herokuapp.com/graph?username=ssaryonjr&bg_color=FFFFFF00&color=F8D866&line=D14836&point=fa8b00&hide_border=true">
+	<img src="https://activity-graph.herokuapp.com/graph?username=ssaryonjr&bg_color=FFFFFF00&color=F8D866&line=D14836&point=fa8b00&hide_border=true&title_color=">
 <h2 align="center">Technical Skill(s)</h2>
 <p align="center">
 	<img src="https://img.shields.io/badge/HTML5-D14836?style=for-the-badge&logo=html5&logoColor=white" height=25>
