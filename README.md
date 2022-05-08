@@ -108,7 +108,7 @@
 				<img src="https://activity-graph.herokuapp.com/graph?username=ssaryonjr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
 	</table>
 </div>
-	
+	<img src="https://activity-graph.herokuapp.com/graph?username=ssaryonjr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
 <h2 align="center">Technical Skill(s)</h2>
 <p align="center">
 	<img src="https://img.shields.io/badge/HTML5-D14836?style=for-the-badge&logo=html5&logoColor=white" height=25>
