@@ -23,7 +23,7 @@
 				<h3 align="center" color="white">Naruto 2D Game Selector</h2>
 				<div align="center" >  
 					<a href='https://narutobattlescreen-js.netlify.app/'>
-						<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Naruto Game" height="222px" width="100%" />
+						<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Naruto Game" height="322px" width="100%" />
 					</a>
 					<br>
 					<br>
@@ -39,10 +39,10 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center" color="white">Coming Soon</h2>
+				<h3 align="center" color="white">Samflix Movie Info.</h2>
 				<div align="center" >  
 					<a href='https://ethodeus.github.io/pick-em-drinks-project/'>
-						<img src="https://source.unsplash.com/600x400/?city,night" alt="" height="222px" width="100%" />
+						<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true" alt="" height="322px" width="100%" />
 					</a>
 					<br>
 					<br>
@@ -54,7 +54,7 @@
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
 						</a>	
 					</p>
-					 <p><strong>TECH STACK</strong> - Project Description</p>
+					 <p><strong>JavaScript, Swiper.js, OMDb API</strong> - Integrated multiple API's into an application that can search and return movie related data from user input</p>
 				</div>
 	<tr>
 		<td width="50%">
