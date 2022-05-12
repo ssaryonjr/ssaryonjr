@@ -50,7 +50,7 @@
 <a href="https://github.com/Ethodeus/breaking-bad-info-page" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://ethodeus.github.io/breaking-bad-info-page/" target="_blank">
+<a href="https://ssjrmovieapi.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
 </a>
 </p>
