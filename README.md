@@ -41,7 +41,7 @@
 <td width="50%">
 <h3 align="center" color="white">Samflix Movie Info.</h2>
 <div align="center" >  
-<a href='https://ethodeus.github.io/pick-em-drinks-project/'>
+<a href='#'>
 <img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true" alt="" height="322px" width="100%" />
 </a>
 <br>
