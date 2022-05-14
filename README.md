@@ -54,7 +54,7 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
 </a>
 </p>
-<p><strong>JavaScript, Swiper.js, OMDb API</strong> - Integrated multiple API's into an application that can search and return movie related data from user input</p>
+<p><strong>JavaScript, Swiper.js, OMDb API</strong> - Integrated the Swiper.JS carousel with dynamically rendering data from the OMDb API in the slides using JavaScript. Click the search icon in the navigation bar and look up your favorite movie!</p>
 </div>
 </table>
 
