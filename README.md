@@ -56,6 +56,44 @@
 </p>
 <p><strong>JavaScript, Swiper.js, OMDb RESTful API</strong> - Dynamically rendered data from the OMDb API on the page using JavaScript and integrated it with swiper.js. Click the search icon in the navigation and look up your favorite movie!</p>
 </div>
+<tr>
+<td width="50%">
+<h3 align="center" color="white">T&K Nigerian Restaurant</h2>
+<div align="center" >  
+<a href='https://tandkpdx.com/'>
+<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker%20(5).gif?raw=true" alt="Naruto Game" height="322px" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/ssaryonjr/T-K-Restaurant-" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://tandkpdx.com/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
+</a>
+</p>
+<p><strong>JavaScript, Bootstrap, CSS3, HTML5</strong> - Designed and deployed a full responsive desktop and mobile website for a business owner's needs. Website also links to delivery applications such as Door Dash.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center" color="white">Coming Soon</h2>
+<div align="center" >  
+<a href='https://www.google.com'>
+<img src="https://media.istockphoto.com/photos/abstract-backgroundred-ribbonhigh-quality-rendering-picture-id183031523?k=20&m=183031523&s=612x612&w=0&h=h7wzj1_WO_JJcnJHiOKIckizkk_Q23K94H-H77skAQk=" alt="" height="322px" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://www.google.com" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://www.google.com" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
+</a>
+</p>
+<p><strong>JavaScript, Swiper.js, OMDb RESTful API</strong> - Dynamically rendered data from the OMDb API on the page using JavaScript and integrated it with swiper.js. Click the search icon in the navigation and look up your favorite movie!</p>
+</div>
 </table>
 
 </div>
