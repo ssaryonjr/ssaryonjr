@@ -92,7 +92,7 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
 </a>
 </p>
-<p><strong>JavaScript, Swiper.js, OMDb RESTful API</strong> - Dynamically rendered data from the OMDb API on the page using JavaScript and integrated it with swiper.js. Click the search icon in the navigation and look up your favorite movie!</p>
+<p><strong>TECH STACK</strong> - DESCRIPTION</p>
 </div>
 </table>
 
