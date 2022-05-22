@@ -60,8 +60,8 @@
 <td width="50%">
 <h3 align="center" color="white">T&K Nigerian Restaurant</h2>
 <div align="center" >  
-<a href='https://tandkpdx.com/'>
-<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker%20(5).gif?raw=true" alt="Naruto Game" height="322px" width="100%" />
+<a href='https://tandkrestaurant.netlify.app/'>
+<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker%20(5).gif?raw=true" alt="Restaurant Website" height="322px" width="100%" />
 </a>
 <br>
 <br>
@@ -69,7 +69,7 @@
 <a href="https://github.com/ssaryonjr/T-K-Restaurant-" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://tandkpdx.com/" target="_blank">
+<a href="https://tandkrestaurant.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
 </a>
 </p>
