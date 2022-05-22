@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - Created a vanilla JavaScript application using sprites from Naruto. You are able to switch fighters by clicking in the character select box much like any classic PVP game!</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> — Created a vanilla JavaScript application using sprites from Naruto. You are able to switch fighters by clicking in the character select box much like any classic PVP game!</p>
 </div>
 </td>
 <td width="50%">
@@ -54,12 +54,12 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
 </a>
 </p>
-<p><strong>JavaScript, Swiper.js, OMDb RESTful API</strong> - Dynamically rendered data from the OMDb API on the page using JavaScript and integrated it with swiper.js. Click the search icon in the navigation and look up your favorite movie!</p>
+<p><strong>JavaScript, Swiper.js, OMDb RESTful API</strong> — Dynamically rendered data from the OMDb API on the page using JavaScript and integrated it with swiper.js. Click the search icon in the navigation and look up your favorite movie!</p>
 </div>
 <tr>
 <td width="50%">
 <h3 align="center" color="white">T&K Nigerian Restaurant</h2>
-<div align="center" >  
+<div align="center">  
 <a href='https://tandkrestaurant.netlify.app/'>
 <img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker%20(5).gif?raw=true" alt="Restaurant Website" height="322px" width="100%" />
 </a>
@@ -73,7 +73,7 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
 </a>
 </p>
-<p><strong>JavaScript, Bootstrap, CSS3, HTML5</strong> - Designed and deployed a full responsive desktop and mobile website for a business owner's needs. Website also links to delivery applications such as Door Dash.</p>
+<p><strong>JavaScript, jQuery, Bootstrap, CSS3, HTML5</strong> — Designed and deployed a fully responsive desktop and mobile web interface for customers of T&K Restaurant to browse their menu and connect to Door Dash and place orders for delivery or pick up.</p>
 </div>
 </td>
 <td width="50%">
