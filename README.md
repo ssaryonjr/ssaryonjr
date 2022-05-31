@@ -103,10 +103,10 @@
 <table>
 <tr>
 <td width="50%">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=ssaryonjr&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&sideNums=DD2727&sideLabels=DD4236&background=FFFFFF00&currStreakNum=fa8b00">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ssaryonjr&hide_border=true&background=FFFFFF00&fire=0AA9FF&currStreakLabel=0AA9FF&ring=005DA8&currStreakNum=00AEFF&sideNums=0AA9FF&sideLabels=0AA9FF&dates=DDDDDD&stroke=E0E0E04E">
 </td>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ssaryonjr&bg_color=FFFFFF00&hide_border=true&text_color=DD2727&title_color=fa8b00&include_all_commits=true&count_private=true">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ssaryonjr&bg_color=FFFFFF00&hide_border=true&text_color=005da8&title_color=1288ff&include_all_commits=true&count_private=true">
 </table>
 </div>
 <img src="https://activity-graph.herokuapp.com/graph?username=ssaryonjr&bg_color=FFFFFF00&color=0aa9ff&line=1288ff&point=26acff&hide_border=true&title_color=">
