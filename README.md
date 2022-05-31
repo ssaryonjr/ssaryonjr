@@ -109,7 +109,7 @@
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ssaryonjr&bg_color=FFFFFF00&hide_border=true&text_color=DD2727&title_color=fa8b00&include_all_commits=true&count_private=true">
 </table>
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=ssaryonjr&bg_color=FFFFFF00&color=0446b0&line=0d0169&point=0d0169&hide_border=true&title_color=">
+<img src="https://activity-graph.herokuapp.com/graph?username=ssaryonjr&bg_color=FFFFFF00&color=0aa9ff&line=1288ff&point=26acff&hide_border=true&title_color=">
 <h2 align="center">Technical Skills</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-D14836?style=for-the-badge&logo=html5&logoColor=white" height=25>
