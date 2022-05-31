@@ -1,4 +1,4 @@
-![alt text](https://github.com/ssaryonjr/ssaryonjr/blob/main/Github%20Cover.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/ssaryonjr/ssaryonjr/blob/main/Github%20Cover.gif?raw=true)
 
 <p align="center">
 <a href="https://twitter.com/samsaryonjr"><img src="https://img.shields.io/badge/@samsaryonjr-0446b0?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
