@@ -5,7 +5,7 @@
 <a href="https://www.codewars.com/users/ssaryonjr"><img src="https://img.shields.io/badge/Codewars-005da8?style=for-the-badge&logo=Codewars&logoColor=white" height=25></a>
 <a href="mailto:ssaryonjr@email.com"><img src="https://img.shields.io/badge/ssaryonjr@gmail.com-005da8?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/sam-saryon/"><img src="https://img.shields.io/badge/sam_saryon-005da8?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://drive.google.com/file/d/1nZ9pvHPUS19Owza7QCFlIECTsYID-AP6/view?usp=sharing"><img src="https://img.shields.io/badge/Download_Resume-005da8?style=for-the-badge&logo=googledrive&logoColor=white" height=25></a>
+<a href="https://drive.google.com/file/d/1nZ9pvHPUS19Owza7QCFlIECTsYID-AP6/view?usp=sharing"><img src="https://img.shields.io/badge/View_Resume-005da8?style=for-the-badge&logo=googledrive&logoColor=white" height=25></a>
 </p>
 
 <p align="center">
