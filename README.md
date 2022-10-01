@@ -20,22 +20,22 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center" color="white">Naruto 2D Game Selector</h2>
+<h3 align="center" color="white">Chitchat - Messaging App</h2>
 <div align="center" >  
 <a href='https://narutobattlescreen-js.netlify.app/'>
-<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Naruto Game" height="322px" width="100%" />
+<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/chitchat.gif?raw=true" alt="Messenger App" height="322px" width="100%" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/ssaryonjr/Naruto-Character-Selector/tree/main/Naruto.JS" target="_blank">
+<a href="https://github.com/ssaryonjr/Chit-chat" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://narutobattlescreen-js.netlify.app/" target="_blank">
+<a href="https://chitchat-messenger.herokuapp.com/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> — Created a vanilla JavaScript application using sprites from Naruto. You are able to switch fighters by clicking in the character select box much like any classic PVP game!</p>
+<p><strong>React, Node, Express, MongoDB, Socket.io, etc.</strong> — Real time messaging application between users and group chats. Levarging socket.io for real time connections and react for fast ui changes.</p>
 </div>
 </td>
 <td width="50%">
@@ -77,22 +77,22 @@
 </div>
 </td>
 <td width="50%">
-<h3 align="center" color="white">Coming Soon</h2>
+<h3 align="center" color="white">Naruto 2D Game Selector</h2>
 <div align="center" >  
-<a href='https://www.google.com'>
-<img src="https://source.unsplash.com/600x400/?city" alt="" height="322px" width="100%" />
+<a href='https://narutobattlescreen-js.netlify.app/'>
+<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Naruto Game" height="322px" width="100%" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://www.google.com" target="_blank">
+<a href="https://github.com/ssaryonjr/Naruto-Character-Selector/tree/main/Naruto.JS" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://www.google.com" target="_blank">
+<a href="https://narutobattlescreen-js.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
 </p>
-<p><strong>TECH STACK</strong> - DESCRIPTION</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> — Created a vanilla JavaScript application using sprites from Naruto. You are able to switch fighters by clicking in the character select box much like any classic PVP game!</p>
 </div>
 </table>
 
