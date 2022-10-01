@@ -80,7 +80,7 @@
 <h3 align="center" color="white">Naruto 2D Game Selector</h2>
 <div align="center" >  
 <a href='https://narutobattlescreen-js.netlify.app/'>
-<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Naruto Game" height="322px" width="100%" />
+<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/NarutoProjectGif.gif?raw=true" alt="Naruto Game" height="322px" width="100%" />
 </a>
 <br>
 <br>
