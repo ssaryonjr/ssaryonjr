@@ -39,10 +39,10 @@
 </div>
 </td>
 <td width="50%">
-<h3 align="center" color="white">iReviews</h2>
+<h3 align="center" color="white">iMovie Reviews</h2>
 <div align="center" >  
 <a href='https://ssjrmovieapi.netlify.app/'>
-<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true" alt="" height="322px" width="100%" />
+<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/imovie.gif?raw=true" alt="" height="322px" width="100%" />
 </a>
 <br>
 <br>
