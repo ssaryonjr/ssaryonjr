@@ -41,16 +41,16 @@
 <td width="50%">
 <h3 align="center" color="white">iMovie Reviews</h2>
 <div align="center" >  
-<a href='https://ssjrmovieapi.netlify.app/'>
+<a href='https://imoviereviews.netlify.app'>
 <img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/imovie.gif?raw=true" alt="" height="322px" width="100%" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/ssaryonjr" target="_blank">
+<a href="https://github.com/ssaryonjr/iMovie-Reviews" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://ssjrmovieapi.netlify.app/" target="_blank">
+<a href="https://imoviereviews.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
 </p>
