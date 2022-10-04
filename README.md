@@ -22,7 +22,7 @@
 <td width="50%">
 <h3 align="center" color="white">Chitchat - Messaging App</h2>
 <div align="center" >  
-<a href='https://narutobattlescreen-js.netlify.app/'>
+<a href='https://chitchat-messenger.herokuapp.com/'>
 <img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/chitchat.gif?raw=true" alt="Messenger App" height="322px" width="100%" />
 </a>
 <br>
@@ -60,7 +60,7 @@
 <td width="50%">
 <h3 align="center" color="white">T&K Nigerian Restaurant</h2>
 <div align="center">  
-<a href='https://tandkrestaurant.netlify.app/'>
+<a href='https://tandkpdx.com/'>
 <img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker%20(5).gif?raw=true" alt="Restaurant Website" height="322px" width="100%" />
 </a>
 <br>
