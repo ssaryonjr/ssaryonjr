@@ -86,10 +86,10 @@
 <br>
 <br>
 <p>
-<a href="https://github.com/ssaryonjr/Naruto-Character-Selector/tree/main/Naruto.JS" target="_blank">
+<a href="https://github.com/the-api-administration/coding-resources-api" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://narutobattlescreen-js.netlify.app/" target="_blank">
+<a href="https://coding-resources-api.up.railway.app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
 </p>
