@@ -77,10 +77,11 @@
 </div>
 </td>
 <td width="50%">
-<h3 align="center" color="white">Naruto 2D Game Selector</h2>
+<h3 align="center" color="white">Coding Resources API
+</h2>
 <div align="center" >  
 <a href='https://narutobattlescreen-js.netlify.app/'>
-<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/NarutoProjectGif.gif?raw=true" alt="Naruto Game" height="322px" width="100%" />
+<img src="https://github.com/bytesbybianca/readme-assets/raw/main/profile-images/coding-resources-api.gif?raw=true" alt="Naruto Game" height="322px" width="100%" />
 </a>
 <br>
 <br>
@@ -92,7 +93,7 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> — Created a vanilla JavaScript application using sprites from Naruto. You are able to switch fighters by clicking in the character select box much like any classic PVP game!</p>
+<p><strong>JavaScript, EJS, Node, Express, MongoDB,</strong> — This API serves educational content for a wide variety of computer science topics, languages and technologies relevant to web development.</p>
 </div>
 </table>
 
