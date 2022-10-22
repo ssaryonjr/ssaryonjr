@@ -93,7 +93,7 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
 </p>
-<p><strong>Python, Twilio, and RESTful API </strong> — Developed an application that sends daily inspirational quotes consumed from a collection of quotes provided by a third-party api. One quote is randomly choosen and sent automatically every morning via Twilio API. </p>
+<p><strong>Python, Twilio, and RESTful API </strong> — Developed an application that sends daily inspirational quotes consumed from a collection of quotes provided by a third-party api. One quote is randomly selected & sent automatically every morning </p>
 </div>
 </table>
 
