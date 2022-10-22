@@ -77,7 +77,7 @@
 </div>
 </td>
 <td width="50%">
-<h3 align="center" color="white">Daily Quote Automation (SMS)
+<h3 align="center" color="white">Python Daily Quote Automation
 </h2>
 <div align="center" >  
 <a href='https://narutobattlescreen-js.netlify.app/'>
