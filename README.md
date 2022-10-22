@@ -77,11 +77,11 @@
 </div>
 </td>
 <td width="50%">
-<h3 align="center" color="white">Coding Resources API
+<h3 align="center" color="white">Daily Quote Automation (SMS)
 </h2>
 <div align="center" >  
 <a href='https://narutobattlescreen-js.netlify.app/'>
-<img src="https://github.com/bytesbybianca/readme-assets/raw/main/profile-images/coding-resources-api.gif?raw=true" alt="Naruto Game" height="322px" width="100%" />
+<img src="https://i.imgur.com/LHCJZ2M.gif" alt="Text Automation Project" height="322px"  />
 </a>
 <br>
 <br>
@@ -93,7 +93,7 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
 </p>
-<p><strong>JavaScript, EJS, Node, Express, MongoDB,</strong> — This API serves educational content for a wide variety of computer science topics, languages and technologies relevant to web development.</p>
+<p><strong>Python, Twilio, </strong> — This API serves educational content for a wide variety of computer science topics, languages and technologies relevant to web development.</p>
 </div>
 </table>
 
