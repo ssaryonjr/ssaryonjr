@@ -80,7 +80,7 @@
 <h3 align="center" color="white">Python Daily Quote Automation
 </h2>
 <div align="center" >  
-<a href='https://narutobattlescreen-js.netlify.app/'>
+<a href='https://github.com/ssaryonjr/Python-Daily-Quote-Automation'>
 <img src="https://i.imgur.com/LHCJZ2M.gif" alt="Text Automation Project" height="322px"  />
 </a>
 <br>
